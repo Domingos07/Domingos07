@@ -2,7 +2,7 @@
 
 ### Olá, eu sou Domingos Rodrigues!👋
 
-Estou iniciando minha caminhada no universo tecnológico. Com conhecimentos básicos em HTML, CSS e JavaScript, estou focado em expandir minhas habilidades e aprender mais sobre o back-end.
+Estou iniciando minha jornada no universo tecnológico. Com conhecimentos básicos em HTML, CSS e JavaScript, estou focado em expandir minhas habilidades e aprender mais sobre o back-end.
 
 Estou dedicado para explorar novas tecnologias, entender como sistemas complexos funcionam por trás das interfaces e criar soluções. 🚀
 
